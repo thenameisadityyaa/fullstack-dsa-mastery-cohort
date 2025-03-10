@@ -24,6 +24,15 @@ This bootcamp focuses on building strong foundations in **Full-Stack Development
 
 ## 📁 Repository Structure
 
+```plaintext
+sheryians-fsd-dsa/
+├─ frontend/         → Frontend projects & assignments  
+├─ backend/          → Backend projects & APIs  
+├─ dsa/              → DSA problems & solutions  
+├─ notes/            → Notes & summaries  
+└─ README.md         → This file
+
+
 ---
 
 ## 🔥 Goals
@@ -59,8 +68,8 @@ All my notes, summaries, and resource links will be shared in the `notes/` folde
 
 ## 🌟 Let's Connect!
 
-- 💻 **GitHub:** [Your GitHub Profile Link]  
-- 🚀 **Portfolio:** [Your Portfolio Website Link]  
+- 💻 **GitHub:** [https://github.com/thenameisadityyaa]  
+- 🚀 **Portfolio:** [link]  
 
 ---
 
