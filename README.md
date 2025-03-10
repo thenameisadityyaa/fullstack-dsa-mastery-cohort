@@ -31,47 +31,9 @@ sheryians-fsd-dsa/
 ├─ dsa/              → DSA problems & solutions  
 ├─ notes/            → Notes & summaries  
 └─ README.md         → This file
-
-
----
-
-## 🔥 Goals
-
-- ✅ Master Full-Stack Development 🚀  
-- ✅ Solve DSA problems daily 📌  
-- ✅ Build real-world projects 💡  
-- ✅ Deploy full-stack applications 🌍  
-- ✅ Become job-ready 🎯  
-
----
-
-## 📅 Progress Tracker
-
-| Week | Topics Covered | Projects/Tasks |
-|------|----------------|----------------|
-| 1️⃣ | HTML, CSS, Git, JavaScript Basics | Portfolio Website |
-| 2️⃣ | DOM, ES6+, Async JS | Mini Web Apps |
-| 3️⃣ | React.js, Hooks, Routing | React Projects |
-| 4️⃣ | Node.js, Express.js, APIs | Backend APIs |
-| 5️⃣ | MongoDB, MySQL | Full-Stack Integration |
-| 6️⃣ | DSA Basics, Arrays, Strings | Problem Solving |
-| 7️⃣ | Recursion, Sorting, Searching | DSA Challenges |
-| ... | More Advanced Topics | Major Projects |
-
----
-
-## 📝 Notes & Resources
-
-All my notes, summaries, and resource links will be shared in the `notes/` folder. Stay tuned — this will be super useful for revision & interview prep!
-
----
+```
 
 ## 🌟 Let's Connect!
 
-- 💻 **GitHub:** [https://github.com/thenameisadityyaa]  
-- 🚀 **Portfolio:** [link]  
-
----
-
-Thanks for stopping by! More content coming soon… Stay tuned! 🎉
-
+💻 GitHub: https://github.com/thenameisadityyaa
+🚀 Portfolio: (Coming Soon)
